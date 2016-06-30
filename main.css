@@ -1,0 +1,57 @@
+/* comment */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;    
+    font-size: 20px; 
+    color: #ffffff;
+    background-image: url(img/newbike.jpg);
+    background-size: cover;
+
+}
+
+li{
+    font-size: 30px;   
+}
+
+#intro {
+font-family: 'Shadows Into Light', cursive;    
+}
+#red{
+color: red;   
+}
+
+#white{
+color: white;   
+}
+
+#blue{
+color: blue;   
+}
+
+#l1 {
+   color: red;
+}
+
+#l2 {
+   color: white; 
+    
+}
+
+#l3 {
+   color: blue;
+}
+
+.someClass {
+font-family: 'Shadows Into Light', cursive;
+text-align: center;
+}
+
+a {
+    color: white;
+    background-color: orange;
+}
+
+a:hover {
+    background-color: white;
+    color: orange;
+}
